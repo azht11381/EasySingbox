@@ -8,7 +8,7 @@
 #################################################
 
 # 配置参数
-BACKEND_URL="http://192.168.10.12:5000"  # 转换后端地址
+BACKEND_URL="http://10.10.10.16:5000"  # 转换后端地址
 SUBSCRIPTION_URL=""  # 订阅地址
 TEMPLATE_URL="https://raw.githubusercontent.com/qichiyuhub/rule/refs/heads/master/config/singbox/config_tproxy.json"  # 配置文件（规则模板)
 MAX_RETRIES=3  # 最大重试次数
